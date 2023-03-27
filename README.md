@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, My name is Fede Leiva👋
 
-<!--
-**fedelei/fedelei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👾 Welcome to my Github Profile 👾  
+-------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+### 🌎 I am from the Province of Misiones, Argentine Republic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📘 I am currently training as a **Full Stack developer**
+----------------------------------------------------------------------------------------
+
+
+### 🚀**Skills**:    
+
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,java,spring,mysql,postman&theme=light)](https://skillicons.dev)
+------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+## CONTACT ME
+
+ ### 👉 [**Linkedin**](www.linkedin.com/in/fedelei)
+### 👉 [**GitHub**](www.github.com/fedelei)
