@@ -14,7 +14,7 @@
 ### 🚀**Skills**:    
 
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,react,java,spring,mysql,postman&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java,spring,mysql,postman&theme=light)](https://skillicons.dev)
 ------------------------------------------------------------------------------------------------------
 
 ---------------------------------------------------------------------------------------------------------
