@@ -1,15 +1,12 @@
 ### Hi there, My name is Fede Leiva👋
 
-## 👾 Welcome to my Github Profile 👾  
+##  Welcome to my Github Profile 💻
 -------------------------------------------------------------------------------------
 
 ### 🌎 I am from the Province of Misiones, Argentine Republic.
 
-
-
 ### 📘 I am currently training as a **Full Stack developer**
 ----------------------------------------------------------------------------------------
-
 
 ### 🚀**Skills**:    
 
